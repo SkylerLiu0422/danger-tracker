@@ -5,7 +5,7 @@ This is a danger tracker system of a wearable device, it can wake up the alarm s
 
 
 
-Veb page：http://34.146.73.222:8080/body-indicator
+Web page：http://34.146.73.222:8080/body-indicator
 
 
 Video of dome：https://drive.google.com/file/d/13dhNKQI33zTFpDuJlEs-nAlo8EG9Leco/view?usp=sharing
