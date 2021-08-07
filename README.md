@@ -5,13 +5,13 @@ This is a danger tracker system of a wearable device, it can wake up the alarm s
 
 
 
-web page：http://34.146.73.222:8080/voice-recognition
+Veb page：http://34.146.73.222:8080/voice-recognition
 
 
-video dome：https://drive.google.com/file/d/13dhNKQI33zTFpDuJlEs-nAlo8EG9Leco/view?usp=sharing
+Video of dome：https://drive.google.com/file/d/13dhNKQI33zTFpDuJlEs-nAlo8EG9Leco/view?usp=sharing
 
 
 
 Model of the speech recognition is from:https://github.com/nl8590687/ASRT_SpeechRecognition
 
-related source: https://asrt.ailemon.net/
+Related source: https://asrt.ailemon.net/
